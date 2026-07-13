@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="191ec059-d101-498e-8fda-27f06f976511" name="Changes" comment="Dashboard Completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYC_AirBnB_EDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NYC_AirBnB_EDA.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +84,7 @@
       <workItem from="1782938569659" duration="12622000" />
       <workItem from="1783724204742" duration="404000" />
       <workItem from="1783904353878" duration="1821000" />
+      <workItem from="1783968056565" duration="1143000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit 07012026">
       <option name="closed" value="true" />
@@ -137,5 +139,16 @@
     <MESSAGE value="EDA Complete 07012026" />
     <MESSAGE value="Dashboard Completed" />
     <option name="LAST_COMMIT_MESSAGE" value="Dashboard Completed" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/NYC_AirBnB_EDA.ipynb</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
